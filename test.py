@@ -1,1 +1,1 @@
-print(SumSmash)
+print(Boolin)
