@@ -1,1 +1,1 @@
-print(MaN)
+print(SumSmash)
